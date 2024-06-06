@@ -30,6 +30,6 @@ Emotional arousal in VR can be measured through eye tracking, highlighting the p
 Special thanks to Lokeshwaran for providing data and support for the project execution.
 
 ## Repository Contents:
-- [ED19B005_AM5011_Project.py/](ED19B005_AM5011_Project.py/): Contains the code files.
-- [ED19B005_Code.pdf/](ED19B005_Code.pdf/): Contains the project report.
+- [ED19B005_AM5011_Project.py](ED19B005_AM5011_Project.py): Contains the code files.
+- [ED19B005_Code.pdf](ED19B005_Code.pdf): Contains the project report.
 - [README.md](README.md): This README file.
